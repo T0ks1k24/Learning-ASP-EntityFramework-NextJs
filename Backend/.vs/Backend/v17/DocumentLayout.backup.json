@@ -1,0 +1,596 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\Learning\\Entity Framework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\data\\learningdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:data\\learningdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\repositories\\orderitems\\orderitemreposity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:repositories\\orderitems\\orderitemreposity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\repositories\\orderitems\\iorderitemreposity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:repositories\\orderitems\\iorderitemreposity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\repositories\\customers\\customerreposity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:repositories\\customers\\customerreposity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\repositories\\customers\\icustomerreposity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:repositories\\customers\\icustomerreposity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\models\\dtos\\orderitems\\addupdateorderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:models\\dtos\\orderitems\\addupdateorderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\models\\dtos\\orderitems\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:models\\dtos\\orderitems\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\models\\dtos\\customers\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:models\\dtos\\customers\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\models\\dtos\\customers\\addupdatecustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:models\\dtos\\customers\\addupdatecustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\models\\dtos\\orders\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:models\\dtos\\orders\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\models\\dtos\\orders\\addupdateorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:models\\dtos\\orders\\addupdateorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\repositories\\categories\\categoryreposity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:repositories\\categories\\categoryreposity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\repositories\\categories\\icategoryreposity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:repositories\\categories\\icategoryreposity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\models\\dtos\\categories\\addupdatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:models\\dtos\\categories\\addupdatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\models\\dtos\\categories\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:models\\dtos\\categories\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\models\\dtos\\products\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:models\\dtos\\products\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\models\\dtos\\products\\addupdateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:models\\dtos\\products\\addupdateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\models\\entitys\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:models\\entitys\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\models\\entitys\\orderitementity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:models\\entitys\\orderitementity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\entity framework.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:entity framework.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\models\\entitys\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:models\\entitys\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\models\\entitys\\categoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:models\\entitys\\categoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\repositories\\products\\productreposity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:repositories\\products\\productreposity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\repositories\\orders\\iorderreposity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:repositories\\orders\\iorderreposity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\repositories\\orders\\orderreposity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:repositories\\orders\\orderreposity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\models\\entitys\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:models\\entitys\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|d:\\coding\\learning\\entity framework\\repositories\\products\\iproductreposity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085F895E-A40E-4368-B652-3D11987A6FD8}|Backend.csproj|solutionrelative:repositories\\products\\iproductreposity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 272,
+          "SelectedChildIndex": 31,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderItemController.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Controllers\\OrderItemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderItemController.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Controllers\\OrderItemController.cs",
+              "RelativeToolTip": "Controllers\\OrderItemController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAYwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T16:59:22.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA0wDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T16:52:17.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T16:35:36.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderItemReposity.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Repositories\\OrderItems\\OrderItemReposity.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrderItems\\OrderItemReposity.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Repositories\\OrderItems\\OrderItemReposity.cs",
+              "RelativeToolTip": "Repositories\\OrderItems\\OrderItemReposity.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAewG0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:57:05.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IOrderItemReposity.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Repositories\\OrderItems\\IOrderItemReposity.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrderItems\\IOrderItemReposity.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Repositories\\OrderItems\\IOrderItemReposity.cs",
+              "RelativeToolTip": "Repositories\\OrderItems\\IOrderItemReposity.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:56:50.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerReposity.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Repositories\\Customers\\CustomerReposity.cs",
+              "RelativeDocumentMoniker": "Repositories\\Customers\\CustomerReposity.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Repositories\\Customers\\CustomerReposity.cs",
+              "RelativeToolTip": "Repositories\\Customers\\CustomerReposity.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAcwHgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:47:27.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICustomerReposity.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Repositories\\Customers\\ICustomerReposity.cs",
+              "RelativeDocumentMoniker": "Repositories\\Customers\\ICustomerReposity.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Repositories\\Customers\\ICustomerReposity.cs",
+              "RelativeToolTip": "Repositories\\Customers\\ICustomerReposity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:45:27.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddUpdateOrderItemDto.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Models\\Dtos\\OrderItems\\AddUpdateOrderItemDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\OrderItems\\AddUpdateOrderItemDto.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Models\\Dtos\\OrderItems\\AddUpdateOrderItemDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\OrderItems\\AddUpdateOrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:43:26.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Models\\Dtos\\OrderItems\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\OrderItems\\OrderItemDto.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Models\\Dtos\\OrderItems\\OrderItemDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\OrderItems\\OrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:43:09.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Models\\Dtos\\Customers\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\Customers\\CustomerDto.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Models\\Dtos\\Customers\\CustomerDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\Customers\\CustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:42:32.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddUpdateCustomerDto.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Models\\Dtos\\Customers\\AddUpdateCustomerDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\Customers\\AddUpdateCustomerDto.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Models\\Dtos\\Customers\\AddUpdateCustomerDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\Customers\\AddUpdateCustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:42:05.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Models\\Dtos\\Orders\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\Orders\\OrderDto.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Models\\Dtos\\Orders\\OrderDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\Orders\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:40:26.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddUpdateOrderDto.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Models\\Dtos\\Orders\\AddUpdateOrderDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\Orders\\AddUpdateOrderDto.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Models\\Dtos\\Orders\\AddUpdateOrderDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\Orders\\AddUpdateOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:40:11.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryReposity.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Repositories\\Categories\\CategoryReposity.cs",
+              "RelativeDocumentMoniker": "Repositories\\Categories\\CategoryReposity.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Repositories\\Categories\\CategoryReposity.cs",
+              "RelativeToolTip": "Repositories\\Categories\\CategoryReposity.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAcwGQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:17:02.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICategoryReposity.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Repositories\\Categories\\ICategoryReposity.cs",
+              "RelativeDocumentMoniker": "Repositories\\Categories\\ICategoryReposity.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Repositories\\Categories\\ICategoryReposity.cs",
+              "RelativeToolTip": "Repositories\\Categories\\ICategoryReposity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:16:51.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-03T14:32:54.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddUpdateCategoryDto.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Models\\Dtos\\Categories\\AddUpdateCategoryDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\Categories\\AddUpdateCategoryDto.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Models\\Dtos\\Categories\\AddUpdateCategoryDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\Categories\\AddUpdateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:29:28.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Models\\Dtos\\Categories\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\Categories\\CategoryDto.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Models\\Dtos\\Categories\\CategoryDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\Categories\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:29:27.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Models\\Dtos\\Products\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\Products\\ProductDto.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Models\\Dtos\\Products\\ProductDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\Products\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:09:11.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddUpdateProductDto.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Models\\Dtos\\Products\\AddUpdateProductDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\Products\\AddUpdateProductDto.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Models\\Dtos\\Products\\AddUpdateProductDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\Products\\AddUpdateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:08:58.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:32:05.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderEntity.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Models\\Entitys\\OrderEntity.cs",
+              "RelativeDocumentMoniker": "Models\\Entitys\\OrderEntity.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Models\\Entitys\\OrderEntity.cs",
+              "RelativeToolTip": "Models\\Entitys\\OrderEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:21:57.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderItemEntity.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Models\\Entitys\\OrderItemEntity.cs",
+              "RelativeDocumentMoniker": "Models\\Entitys\\OrderItemEntity.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Models\\Entitys\\OrderItemEntity.cs",
+              "RelativeToolTip": "Models\\Entitys\\OrderItemEntity.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:54:18.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAnwDUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:57:17.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Entity Framework.http",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Entity Framework.http",
+              "RelativeDocumentMoniker": "Entity Framework.http",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Entity Framework.http",
+              "RelativeToolTip": "Entity Framework.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-02T11:53:20.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CustomerEntity.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Models\\Entitys\\CustomerEntity.cs",
+              "RelativeDocumentMoniker": "Models\\Entitys\\CustomerEntity.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Models\\Entitys\\CustomerEntity.cs",
+              "RelativeToolTip": "Models\\Entitys\\CustomerEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:32:56.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CategoryEntity.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Models\\Entitys\\CategoryEntity.cs",
+              "RelativeDocumentMoniker": "Models\\Entitys\\CategoryEntity.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Models\\Entitys\\CategoryEntity.cs",
+              "RelativeToolTip": "Models\\Entitys\\CategoryEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:32:55.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LearningDbContext.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Data\\LearningDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\LearningDbContext.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Data\\LearningDbContext.cs",
+              "RelativeToolTip": "Data\\LearningDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T20:41:49.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductReposity.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Repositories\\Products\\ProductReposity.cs",
+              "RelativeDocumentMoniker": "Repositories\\Products\\ProductReposity.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Repositories\\Products\\ProductReposity.cs",
+              "RelativeToolTip": "Repositories\\Products\\ProductReposity.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T20:11:22.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T20:10:14.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IOrderReposity.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Repositories\\Orders\\IOrderReposity.cs",
+              "RelativeDocumentMoniker": "Repositories\\Orders\\IOrderReposity.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Repositories\\Orders\\IOrderReposity.cs",
+              "RelativeToolTip": "Repositories\\Orders\\IOrderReposity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T20:12:00.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderReposity.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Repositories\\Orders\\OrderReposity.cs",
+              "RelativeDocumentMoniker": "Repositories\\Orders\\OrderReposity.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Repositories\\Orders\\OrderReposity.cs",
+              "RelativeToolTip": "Repositories\\Orders\\OrderReposity.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswGQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T20:12:12.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T20:43:56.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductEntity.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Models\\Entitys\\ProductEntity.cs",
+              "RelativeDocumentMoniker": "Models\\Entitys\\ProductEntity.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Models\\Entitys\\ProductEntity.cs",
+              "RelativeToolTip": "Models\\Entitys\\ProductEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T20:18:11.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IProductReposity.cs",
+              "DocumentMoniker": "D:\\Coding\\Learning\\Entity Framework\\Repositories\\Products\\IProductReposity.cs",
+              "RelativeDocumentMoniker": "Repositories\\Products\\IProductReposity.cs",
+              "ToolTip": "D:\\Coding\\Learning\\Entity Framework\\Repositories\\Products\\IProductReposity.cs",
+              "RelativeToolTip": "Repositories\\Products\\IProductReposity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T20:10:14.256Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
